@@ -19,6 +19,8 @@ To start working on a Transportation Cost Optimization and Route Planning projec
 	•	Ensure data is complete and accurate.
 	•	Handle missing values and format the data for algorithm input.
 
+ DataLink: https://drive.google.com/file/d/1TzB5lc26O7Vq5VFb48aJA14ao4HHissx/view?usp=share_link
+
 # 3. Choose an Optimization Algorithm
 	•	Linear Programming (LP):
 	•	Useful for smaller datasets or problems where constraints and objective functions are linear.
