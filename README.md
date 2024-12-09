@@ -79,4 +79,8 @@ To start working on a Transportation Cost Optimization and Route Planning projec
 	•	/results/ for saving output data and visualizations.
 	3.	Version Control:
 	•	Use branches to manage feature additions.
-
+# References
+	1. https://www.kaggle.com/datasets/laurinbrechter/supply-chain-data/code
+ 	2. https://www.kaggle.com/code/enjegodinez/shipping-routes-and-cost-analysis-optimization/output
+  	3. https://github.com/pnraj/Transportation-Cost-Analysis-and-Optimization
+   
