@@ -37,7 +37,8 @@ To start working on a Transportation Cost Optimization and Route Planning projec
 	•	Start and end points.
 	•	Objective Function:
 	•	Minimize total transportation cost:
-￼
+￼<img width="331" alt="Screenshot 2024-12-09 at 2 49 50 PM" src="https://github.com/user-attachments/assets/1e22facf-0a87-422e-9e35-d5e625a366b9">
+
 
 # 5. Implement and Test Algorithms
 	•	Algorithm Implementation:
