@@ -19,7 +19,10 @@ To start working on a Transportation Cost Optimization and Route Planning projec
 	•	Ensure data is complete and accurate.
 	•	Handle missing values and format the data for algorithm input.
 
- DataLink: https://drive.google.com/file/d/1TzB5lc26O7Vq5VFb48aJA14ao4HHissx/view?usp=share_link
+ DataLink:
+	1. https://docs.google.com/spreadsheets/d/1KiY8fxsZ_z7sQq8gwoo9oDrJCXYXr4CZbh7E_aPgxW4/edit?usp=sharing
+	2. https://drive.google.com/file/d/1TzB5lc26O7Vq5VFb48aJA14ao4HHissx/view?usp=share_link
+	 
  DesignLink: https://www.canva.com/design/DAGY2cBGIZs/ko63iFc1pGwcBCDGnvmoTA/edit?utm_content=DAGY2cBGIZs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 # 3. Choose an Optimization Algorithm
