@@ -23,9 +23,8 @@
 	•	lat1, lon1: Latitude and longitude of the first point.
 	•	lat2, lon2: Latitude and longitude of the second point.
 	•	Formula:
-￼
 
-￼
+
 ￼
 Where ￼ km (Earth’s radius).
 
